@@ -70,31 +70,7 @@ The project focuses on predicting customer churn in the telecommunications secto
 * **Interpretability**: SHAP values provided clear insights into feature impact
 * **Survey Insights**: Customer satisfaction and service perception strongly align with churn behavior
 
----
-
-## 📁 Repository Structure
-
 ```
-├── data/
-│   ├── telco_churn.csv
-│   └── survey_data.csv
-├── notebooks/
-│   ├── data_preprocessing.ipynb
-│   ├── exploratory_data_analysis.ipynb
-│   ├── model_training_evaluation.ipynb
-│   └── shap_explainability.ipynb
-├── dashboards/
-│   └── powerbi_churn_dashboard.pbix
-├── results/
-│   ├── model_metrics.csv
-│   └── feature_importance.png
-├── dissertation/
-│   └── Final_Dissertation_2025.pdf
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## ▶️ How to Run the Project
 
