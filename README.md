@@ -71,7 +71,6 @@ The project focuses on predicting customer churn in the telecommunications secto
 * **Survey Insights**: Customer satisfaction and service perception strongly align with churn behavior
 
 ```
-
 ## ▶️ How to Run the Project
 
 1. Clone the repository
